@@ -12,12 +12,12 @@ For example:
 
 ## Features
 
-- ✅ Calculates exponents using logarithms
-- ✅ Handles decimal exponents
-- ✅ Input validation and error handling
-- ✅ Automatic result verification
-- ✅ Multiple calculations in one session
-- ✅ Precision error checking
+-  Calculates exponents using logarithms
+-  Handles decimal exponents
+-  Input validation and error handling
+-  Automatic result verification
+-  Multiple calculations in one session
+-  Precision error checking
 
 ## Requirements
 
@@ -28,7 +28,7 @@ For example:
 
 1. Run the program:
 ```bash
-python exponent_calculator.py
+python exponent_calc1.py
 ```
 
 2. Enter the base number when prompted
@@ -72,6 +72,3 @@ If `base^x = result`, then `x = log(result) / log(base)`
 - Result must be a positive number
 - Very large or very small numbers may have floating-point precision limitations
 
-## License
-
-MIT License - Feel free to use and modify as needed.
